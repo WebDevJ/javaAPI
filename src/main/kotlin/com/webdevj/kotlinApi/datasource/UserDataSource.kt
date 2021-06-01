@@ -6,4 +6,5 @@ import com.webdevj.kotlinApi.model.User
 interface UserDataSource {
     // return collection of user entities
     fun retrieveUsers(): Collection<User>
+    fun retrieveUser(id: Int): User
 }

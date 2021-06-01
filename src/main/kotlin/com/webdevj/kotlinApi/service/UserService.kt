@@ -9,4 +9,8 @@ class UserService(private val dataSource: UserDataSource) {
     fun getUsers(): Collection<User> {
         return dataSource.retrieveUsers()
     }
+
+    fun getUser(id: Int): User {
+        return dataSource.retrieveUser(id)
+    }
 }
