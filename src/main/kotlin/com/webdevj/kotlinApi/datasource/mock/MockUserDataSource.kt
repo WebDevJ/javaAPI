@@ -14,7 +14,7 @@ class MockUserDataSource : UserDataSource { //using UserDataSource and getUsers 
 
     override fun retrieveUsers(): Collection<User> = users
 
-    override fun retrieveUser(studentid: Int): User {
-        return users.first{it.studentid == studentid}
-    }
+    override fun retrieveUser(studentid: Int): User =
+         users.firstOrNull{it.studentid == studentid }
+                ?: throw NoSuchElementException("Error Message : User Not Found")
 }
