@@ -8,5 +8,5 @@ import org.springframework.web.bind.annotation.RestController
 @RequestMapping("api/users")  // base url for rest endpoints in this class; http://localhost:8080/api/users
 class UsersController {
     @GetMapping
-    fun users(): String = "users REST end point!"
+    fun users(): String = "users REST end point!" //breaking my progress into branch sections on github;  1_setup
 }
