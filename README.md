@@ -1,1 +1,1 @@
-![spec](/images/kotlin_nuxt.pdf)
+![spec](/images/kotlin_nuxt.png)
