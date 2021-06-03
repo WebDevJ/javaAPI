@@ -4,6 +4,8 @@
  1. backend: /javaAPI/src/main/kotlin
 
  1. frontend: /javaAPI/client
+     * npm install
+     * npm run dev
 
 ### Bonus
  1. We can also add the Spring Security plugin to implement basic authentication of username and password to secure API endpoints
