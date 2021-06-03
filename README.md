@@ -1,6 +1,6 @@
 ![spec](/images/kotlin_nuxt.png)
 ### Files
- 1. backend: /javaAPI
+ 1. backend: /javaAPI/src/main
 
  1. frontend: /javaAPI/client
 
