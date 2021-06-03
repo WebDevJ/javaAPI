@@ -1,8 +1,8 @@
 ![spec](/images/kotlin_nuxt.png)
 ### Files
- 1. backend: /javaAPI/kotlinApi
+ 1. backend: /javaAPI
 
- 1. frontend: /javaAPI/kotlinApi/client
+ 1. frontend: /javaAPI/client
 
 ### Bonus
  1. We can also add the Spring Security plugin to implement basic authentication of username and password to secure API endpoints
