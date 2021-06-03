@@ -1,6 +1,7 @@
-![spec](/images/kotlin_nuxt.png)
+<img width="1021" alt="kotlin_nuxt" src="https://user-images.githubusercontent.com/13556673/120704374-7efa6b80-c484-11eb-8740-9963c7487aac.png">
+
 ### Files
- 1. backend: /javaAPI/src/main
+ 1. backend: /javaAPI/src/main/kotlin
 
  1. frontend: /javaAPI/client
 
