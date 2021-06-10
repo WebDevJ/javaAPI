@@ -14,5 +14,6 @@
 
    ![app_prop](https://user-images.githubusercontent.com/13556673/120576001-0d70dd80-c3f0-11eb-9931-64baa0b660ff.png)
 
-
-
+### ToDo
+ 1. Add try catch to api calls
+ 2. add unit and end to end test
