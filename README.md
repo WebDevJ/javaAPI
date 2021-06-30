@@ -17,3 +17,4 @@
 ### ToDo
  1. Add try catch to api calls
  2. add unit and end to end test
+ 3. .env for keys
